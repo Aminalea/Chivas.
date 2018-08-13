@@ -75,8 +75,8 @@ def sendMessageWithMention(to, mid):
         logError(error)
         
 def helpmessage():
-    helpMessage = "╔═══════════════" + "\n" + \
-                  "╠" ▁ ▂ ▄ ▅ ▆ ▇ █ [  Chivas ] █ ▇ ▆ ▅ ▄ ▂ ▁ "\n" + \
+    helpMessage = ╔═══════════════" + "\n" + \
+                 "╠ ▁ ▂ ▄ ▅ ▆ ▇ █ [  Chivas ] █ ▇ ▆ ▅ ▄ ▂ ▁ "\n" + \
                   "║" + "\n" + \
                   "╠══✪〘 Help Message 〙✪══" + "\n" + \
                   "║" + "\n" + \
